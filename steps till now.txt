@@ -1,0 +1,22 @@
+install python packages
+with python 3 and pip3
+
+dataset link <include in readme(later)>
+appreve/allow/accept using dataset link
+
+pip install kaggle
+
+download kaggle dataset from link using kaggle in cmd
+
+preprocess both train and test dataset
+attribute*=true for one and false for other(mentioned it in preprocess.py)
+
+stats.py only in one(test or train)
+figure out again.
+
+all the algos- run in only one dataset(the one used in stats.py)
+
+WILL KEEP UPDATING THIS!!
+
+README.md TO BE BUILT SOON. :)
+ 
