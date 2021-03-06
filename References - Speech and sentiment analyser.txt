@@ -1,0 +1,11 @@
+https://towardsdatascience.com/mining-live-twitter-data-for-sentiment-analysis-of-events-d69aa2d136a1
+
+https://github.com/abdulfatir/twitter-sentiment-analysis
+
+https://github.com/ayushoriginal/Sentiment-Analysis-Twitter
+
+https://www.skyfilabs.com/project-ideas/social-media-sentiment-analysis-using-twitter-dataset
+
+https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer
+
+https://www.skyfilabs.com/project-ideas/speech-emotion-recognition
